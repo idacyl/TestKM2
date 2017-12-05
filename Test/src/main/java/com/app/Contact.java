@@ -6,5 +6,4 @@ package com.app;
 public class Contact {
     private String address;
     private String city;
-    private Integer number;
 }
