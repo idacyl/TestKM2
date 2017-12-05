@@ -1,3 +1,4 @@
+# Projekt wykonany w ramach szkolenia KM PROGRAMS: http://km-programs.pl/
 # TestKM2
 
 # APlikacja komunikuje sie z zasobami NBP i pobiera aktualne kursy
